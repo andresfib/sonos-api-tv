@@ -1,0 +1,20 @@
+{
+  "name": "sonos-pi-tv",
+  "version": "0.0.1",
+  "description": "Display the art of the song playing in Sonos",
+  "main": "init-script.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sonos",
+    "api",
+    "tv"
+  ],
+  "author": "",
+  "license": "ISC"
+}
